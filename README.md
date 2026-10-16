@@ -35,6 +35,6 @@ Connect server endpoints or a booking provider for reservations; validate and st
 
 Production compilation and asset/route source checks performed. Interactive browser verification requires a browser tool; one was not available in this session.
 
-## Reference redesign
+## Current design direction
 
-The homepage follows the supplied visual reference: a rounded frame on taupe, split cream/photo hero, headline spanning both halves, lower-left navigation and floating feature panel. On phones the photograph moves below the headline. Supplied chat images were not exposed as local assets, so the existing illustrative food photograph remains in use. Replace `public/images/hero.jpg` to use the supplied feast photograph when available.
+The homepage uses a contemporary Indian dining direction: full-bleed cinematic photography, charcoal and antique gold, Cormorant Garamond typography, staggered signature dishes, an occasion feature, lunch details, and a Sacramento reservation call to action. This is a visual positioning choice; no star rating or award is claimed. Food and interior photographs remain illustrative. Mobile layout, reduced-motion support and existing menu/order/contact routes are retained.
