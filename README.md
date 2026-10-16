@@ -33,8 +33,12 @@ Connect server endpoints or a booking provider for reservations; validate and st
 
 ## Verification
 
-Production compilation and asset/route source checks performed. Interactive browser verification requires a browser tool; one was not available in this session.
+Production compilation and asset/route source checks performed. Local Chrome checks passed at desktop (1440px) and mobile (390px): no horizontal overflow, menu category switching, mobile navigation, menu route loading, and no JavaScript exceptions. Desktop and mobile screenshots were captured and visually reviewed.
 
-## Current design direction
+## Research-led design direction
 
-The homepage uses a contemporary Indian dining direction: full-bleed cinematic photography, charcoal and antique gold, Cormorant Garamond typography, staggered signature dishes, an occasion feature, lunch details, and a Sacramento reservation call to action. This is a visual positioning choice; no star rating or award is claimed. Food and interior photographs remain illustrative. Mobile layout, reduced-motion support and existing menu/order/contact routes are retained.
+Official reference sites reviewed: [Dishoom](https://www.dishoom.com/), [Semma](https://www.semma.nyc/), [Dhamaka](https://www.dhamaka.nyc/), and [Junoon](https://www.junoonnyc.com/). These informed regional food storytelling, prominent menu and reservation access, image-led composition and a recognizable restaurant identity. No restaurant copy, logos, or photography were copied.
+
+The current design uses parchment, oxblood, warm brass, editorial serif typography, a large arched feast photograph, interactive menu preview tabs, family storytelling, lunch details, and a Sacramento location section. `src/pages/Home.jsx` contains the homepage.
+
+`public/images/indian-feast.jpg` is illustrative AI-generated imagery created with the built-in image_gen tool. Its exact prompt is saved in `public/images/indian-feast.prompt.txt`. Other food photography remains illustrative Unsplash imagery. No star ratings or awards are claimed.
