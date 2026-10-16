@@ -1,0 +1,1388 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "price": 16,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 2,
+    "name": "Paneer Butter Masala",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 3,
+    "name": "Hyderabadi Chicken Dum Biryani",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 4,
+    "name": "Idli (3pcs)",
+    "price": 8,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 5,
+    "name": "Methu Vada",
+    "price": 9,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 6,
+    "name": "Masala Dosa",
+    "price": 12,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 7,
+    "name": "Plain / Onion Dosa",
+    "price": 10,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 8,
+    "name": "Ghee Karam Dosa",
+    "price": 12,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 9,
+    "name": "Paneer Dosa",
+    "price": 13,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 10,
+    "name": "Mysore Masala Dosa",
+    "price": 14,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 11,
+    "name": "Chole Bature",
+    "price": 14,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 12,
+    "name": "Cheese Dosa",
+    "price": 15,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 13,
+    "name": "Poori with Potato Masala",
+    "price": 13,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 14,
+    "name": "VJ\u2019s Combo 1 (2 Idli + Masala Dosa)",
+    "price": 16,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 15,
+    "name": "VJ\u2019s Combo 2 (2 Vada + Masala Dosa)",
+    "price": 16,
+    "category": "Breakfast",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 16,
+    "name": "Poori with Chicken Curry",
+    "price": 15,
+    "category": "Breakfast",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 17,
+    "name": "Poori with Goat Curry",
+    "price": 16,
+    "category": "Breakfast",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 18,
+    "name": "Baby Corn Soup",
+    "price": 6,
+    "category": "Soups & Salads",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 19,
+    "name": "Tomato Ginger Soup",
+    "price": 5,
+    "category": "Soups & Salads",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 20,
+    "name": "Rasam",
+    "price": 6,
+    "category": "Soups & Salads",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 21,
+    "name": "Sambar (Lentil Soup)",
+    "price": 6,
+    "category": "Soups & Salads",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 22,
+    "name": "House Garden Salad",
+    "price": 7,
+    "category": "Soups & Salads",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 23,
+    "name": "Samosas (2pcs)",
+    "price": 6,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 24,
+    "name": "Mirchi Bajji",
+    "price": 10,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 25,
+    "name": "Onion Pakora",
+    "price": 10,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 26,
+    "name": "Mixed Pakora",
+    "price": 11,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 27,
+    "name": "Samosa Chat",
+    "price": 11,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 28,
+    "name": "Chat Papdi",
+    "price": 11,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 29,
+    "name": "Dahi Puri",
+    "price": 11,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 30,
+    "name": "Stuffed Mirchi Bajji",
+    "price": 12,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 31,
+    "name": "Chilli Baby Corn",
+    "price": 14,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 32,
+    "name": "Chilli-Garlic Paneer",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 33,
+    "name": "Chilli-Garlic Gobi",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 34,
+    "name": "Mushroom Pepper Fry",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 35,
+    "name": "Cauliflower 65",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 36,
+    "name": "Veg Manchurian",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 37,
+    "name": "Gobi Manchurian",
+    "price": 15,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 38,
+    "name": "Paneer 65",
+    "price": 16,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 39,
+    "name": "Karvepaku Paneer",
+    "price": 16,
+    "category": "Starters",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 40,
+    "name": "Cashew Chicken",
+    "price": 14,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 41,
+    "name": "Chicken 65",
+    "price": 15,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 42,
+    "name": "Ginger Chicken",
+    "price": 15,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 43,
+    "name": "Chicken Lollipop (4pcs)",
+    "price": 15,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 44,
+    "name": "Chicken Manchurian",
+    "price": 15,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 45,
+    "name": "Chilli Chicken",
+    "price": 16,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 46,
+    "name": "Cilantro Chicken",
+    "price": 16,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 47,
+    "name": "Pepper Chicken",
+    "price": 16,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 48,
+    "name": "Karvepaku Chicken",
+    "price": 16,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 49,
+    "name": "Chilli-Garlic Shrimp",
+    "price": 16,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 50,
+    "name": "Shrimp 65",
+    "price": 17,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 51,
+    "name": "Fish Pakora",
+    "price": 17,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 52,
+    "name": "Goat Pepper Fry",
+    "price": 18,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 53,
+    "name": "Goat Ghee Roast",
+    "price": 18,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 54,
+    "name": "Lamb 65",
+    "price": 20,
+    "category": "Starters",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 55,
+    "name": "Stuffed Mushroom Tikka",
+    "price": 15,
+    "category": "Tandoor",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 56,
+    "name": "Tandoori Grilled Paneer",
+    "price": 16,
+    "category": "Tandoor",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 57,
+    "name": "Tandoori Chicken Bone-In",
+    "price": 14,
+    "category": "Tandoor",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 58,
+    "name": "Tandoori Chicken Kebab (7pcs)",
+    "price": 16,
+    "category": "Tandoor",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 59,
+    "name": "Tandoori Shrimp",
+    "price": 18,
+    "category": "Tandoor",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 60,
+    "name": "Bhindi Masala",
+    "price": 14,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 61,
+    "name": "Aloo Gobi",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 62,
+    "name": "Dal Tadka",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 63,
+    "name": "Dal Makhani",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 64,
+    "name": "Kadai Paneer",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 65,
+    "name": "Gutthi Vankaya Masala",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 66,
+    "name": "Channa Masala",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 67,
+    "name": "Malai Kofta",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 68,
+    "name": "Mushroom Curry",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 69,
+    "name": "Palak Paneer",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 70,
+    "name": "Soya Chunk Cashew Curry",
+    "price": 15,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 71,
+    "name": "Paneer Tikka Masala",
+    "price": 16,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 72,
+    "name": "Navratan Kurma",
+    "price": 16,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 73,
+    "name": "Mixed Veg Curry",
+    "price": 16,
+    "category": "Curries",
+    "veg": true,
+    "image": 1,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 74,
+    "name": "Andhra Chicken Curry",
+    "price": 15,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 75,
+    "name": "Egg Masala Curry",
+    "price": 15,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 76,
+    "name": "Chicken Tikka Masala",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 77,
+    "name": "Chicken Chetinadu",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 78,
+    "name": "Chicken Kurma",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 79,
+    "name": "Chicken Vindaloo",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 80,
+    "name": "Kadai Chicken",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 81,
+    "name": "Gongura Chicken Curry",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 82,
+    "name": "Chicken Saag Curry",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 83,
+    "name": "Andhra Goat Curry",
+    "price": 17,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 84,
+    "name": "Goat Kurma",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 85,
+    "name": "Kadai Goat",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 86,
+    "name": "Gongura Goat Curry",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 87,
+    "name": "Fish Masala",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 88,
+    "name": "Lamb Curry",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 89,
+    "name": "Lamb Vindaloo",
+    "price": 19,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 90,
+    "name": "Shrimp Curry",
+    "price": 18,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 91,
+    "name": "Malabar Coconut Shrimp",
+    "price": 19,
+    "category": "Curries",
+    "veg": false,
+    "image": 0,
+    "description": "An Indian classic, rich with warming spices."
+  },
+  {
+    "id": 92,
+    "name": "Tawa Roti",
+    "price": 3,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 93,
+    "name": "Plain Naan",
+    "price": 3,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 94,
+    "name": "Butter Naan",
+    "price": 4,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 95,
+    "name": "Garlic Naan",
+    "price": 5,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 96,
+    "name": "Cheese Naan",
+    "price": 6,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 97,
+    "name": "Bullet Naan",
+    "price": 6,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 98,
+    "name": "Onion Kulcha",
+    "price": 6,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 99,
+    "name": "Paneer Kulcha",
+    "price": 6,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 100,
+    "name": "Aloo Paratha",
+    "price": 7,
+    "category": "Breads",
+    "veg": true,
+    "image": 0,
+    "description": "The perfect companion for your favourite curry."
+  },
+  {
+    "id": 101,
+    "name": "Chicken Fried Rice",
+    "price": 16,
+    "category": "Indo-Chinese",
+    "veg": false,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 102,
+    "name": "Chicken Noodles",
+    "price": 16,
+    "category": "Indo-Chinese",
+    "veg": false,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 103,
+    "name": "Veg Fried Rice",
+    "price": 14,
+    "category": "Indo-Chinese",
+    "veg": true,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 104,
+    "name": "Veg Noodles",
+    "price": 14,
+    "category": "Indo-Chinese",
+    "veg": true,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 105,
+    "name": "Vegetable Biryani",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 106,
+    "name": "Paneer Biryani",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 107,
+    "name": "Mushroom Biryani",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 108,
+    "name": "Gutthi Vankaya Biryani",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 109,
+    "name": "Gongura Paneer Biryani",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 110,
+    "name": "Ulavacharu Paneer Biryani",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 111,
+    "name": "Vegetable Pulao",
+    "price": 17,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 112,
+    "name": "Soya Chunk Pepper Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 113,
+    "name": "Paneer Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 114,
+    "name": "Methi Paneer Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 115,
+    "name": "Gobi Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 116,
+    "name": "Gutthi Vankaya Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 117,
+    "name": "Mushroom Pepper Pulao",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": true,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 118,
+    "name": "Egg Biryani",
+    "price": 17,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 119,
+    "name": "Vijayawada Chicken Biryani",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 120,
+    "name": "Chicken 65 Biryani",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 121,
+    "name": "Chicken Fry Piece Biryani",
+    "price": 19,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 122,
+    "name": "Ulavacharu Chicken Biryani",
+    "price": 20,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 123,
+    "name": "Goat Biryani",
+    "price": 20,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 124,
+    "name": "Goat Ghee Roast Biryani",
+    "price": 21,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 125,
+    "name": "Gongura Goat Biryani",
+    "price": 21,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 126,
+    "name": "Shrimp Biryani",
+    "price": 21,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 127,
+    "name": "Gongura Shrimp Biryani",
+    "price": 22,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 128,
+    "name": "Lamb Biryani",
+    "price": 22,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 129,
+    "name": "Chicken Fry Piece Pulao",
+    "price": 18,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 130,
+    "name": "Andhra Mutton Pulao",
+    "price": 20,
+    "category": "Biryani & Pulao",
+    "veg": false,
+    "image": 2,
+    "description": "Fragrant rice and layered spices, made for a hearty meal."
+  },
+  {
+    "id": 131,
+    "name": "Talapakatti Chicken Biryani",
+    "price": 23,
+    "category": "Weekend Specials",
+    "veg": false,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 132,
+    "name": "Talapakatti Goat Biryani",
+    "price": 24,
+    "category": "Weekend Specials",
+    "veg": false,
+    "image": 2,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 133,
+    "name": "Soda Tin",
+    "price": 4,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 134,
+    "name": "Mango Lassi",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 135,
+    "name": "Rose Milk",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 136,
+    "name": "Badam Milk",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 137,
+    "name": "Salt / Sweet Lassi",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 138,
+    "name": "Masala Chai",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 139,
+    "name": "Fresh Bru Coffee",
+    "price": 5,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 140,
+    "name": "Irani Chai",
+    "price": 6,
+    "category": "Drinks",
+    "veg": true,
+    "image": 1,
+    "description": "A refreshing accompaniment to your favourites."
+  },
+  {
+    "id": 141,
+    "name": "Gulab Jamun (2pcs)",
+    "price": 5,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 142,
+    "name": "Rice Kheer",
+    "price": 5,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 143,
+    "name": "Rasgulla (2pcs)",
+    "price": 5,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 144,
+    "name": "Sevai Custard Kheer",
+    "price": 6,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 145,
+    "name": "Carrot Halwa",
+    "price": 6,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 146,
+    "name": "Coconut Barfi",
+    "price": 6,
+    "category": "Desserts",
+    "veg": true,
+    "image": 1,
+    "description": "A sweet finish to a meal worth sharing."
+  },
+  {
+    "id": 147,
+    "name": "Extra Sambar",
+    "price": 3,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 148,
+    "name": "Papads (2pcs)",
+    "price": 5,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 149,
+    "name": "Raita",
+    "price": 5,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 150,
+    "name": "French Fries",
+    "price": 5,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 151,
+    "name": "Masala Fries",
+    "price": 6,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 152,
+    "name": "Lemon Rice",
+    "price": 7,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 153,
+    "name": "Curd Rice",
+    "price": 7,
+    "category": "Sides",
+    "veg": true,
+    "image": 1,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  },
+  {
+    "id": 154,
+    "name": "Butter Chicken Fries",
+    "price": 7,
+    "category": "Sides",
+    "veg": false,
+    "image": 0,
+    "description": "From the VJ\u2019s Kitchen dine-in menu."
+  }
+]
