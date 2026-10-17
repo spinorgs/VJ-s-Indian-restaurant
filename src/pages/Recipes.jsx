@@ -1,0 +1,7 @@
+import React,{useState} from 'react';
+import {ArrowUpRight} from 'lucide-react';
+import menu from '../data/menu.json';
+import {dishDetails,dishPhoto} from '../data/dish-details';
+import DishDialog from '../components/DishDialog';
+const signatures=['Butter Chicken','Paneer Butter Masala','Hyderabadi Chicken Dum Biryani','Masala Dosa','Samosas (2pcs)','Gulab Jamun (2pcs)','Mango Lassi'];
+export default function Recipes(){const [dish,setDish]=useState(null);return <><div className="page-heading"><p className="eyebrow">A CLOSER LOOK AT INDIAN CLASSICS</p><h1>The stories<br/><em>behind the flavor.</em></h1><p>Explore typical ingredients and preparation, with links to full home-style recipes. These are not VJ’s Kitchen’s proprietary recipes.</p></div><section className="section recipe-grid">{signatures.map(name=>menu.find(d=>d.name===name)).filter(Boolean).map(d=><article key={d.id}><button onClick={()=>setDish(d)} className="recipe-image" aria-label={`Explore ${d.name}`}><img loading="lazy" src={dishPhoto(d)} alt={`${d.imageGenerated?"AI-generated illustration of":"Representative"} ${d.imageSubject||d.name}`}/></button><p className="ed-label">{d.category.toUpperCase()}{d.imageGenerated?" · AI-GENERATED ILLUSTRATION":""}</p><h2>{d.name}</h2><p>{dishDetails(d).description}</p><button className="ed-text-link" onClick={()=>setDish(d)}>Explore the recipe <ArrowUpRight size={15}/></button></article>)}</section><DishDialog dish={dish} onClose={()=>setDish(null)}/></>}

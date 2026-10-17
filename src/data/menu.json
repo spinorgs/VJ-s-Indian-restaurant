@@ -6,7 +6,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/curry-classic.jpg",
+    "imageSubject": "Butter chicken",
+    "photoMatch": "dish",
+    "imageGroup": "curry-classic"
   },
   {
     "id": 2,
@@ -15,7 +20,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/paneer.jpg",
+    "imageSubject": "Paneer butter masala",
+    "photoMatch": "dish",
+    "imageGroup": "paneer"
   },
   {
     "id": 3,
@@ -24,7 +34,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/biryani-classic.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "dish",
+    "imageGroup": "biryani-classic"
   },
   {
     "id": 4,
@@ -33,7 +48,12 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/idli.jpg",
+    "imageSubject": "Idli",
+    "photoMatch": "dish",
+    "imageGroup": "idli"
   },
   {
     "id": 5,
@@ -42,7 +62,12 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/vada.jpg",
+    "imageSubject": "medu vada",
+    "photoMatch": "dish",
+    "imageGroup": "vada"
   },
   {
     "id": 6,
@@ -51,7 +76,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-006-masala-dosa-v2.jpg",
+    "imageSubject": "Masala Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-006-masala-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 7,
@@ -60,7 +91,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-007-onion-dosa-v2.jpg",
+    "imageSubject": "Plain / Onion Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-007-onion-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 8,
@@ -69,7 +106,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-008-ghee-karam-dosa-v2.jpg",
+    "imageSubject": "Ghee Karam Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-008-ghee-karam-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 9,
@@ -78,7 +121,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-009-paneer-dosa-v2.jpg",
+    "imageSubject": "Paneer Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-009-paneer-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 10,
@@ -87,7 +136,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-010-mysore-masala-dosa-v2.jpg",
+    "imageSubject": "Mysore Masala Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-010-mysore-masala-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 11,
@@ -96,7 +151,12 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chole-bhature.jpg",
+    "imageSubject": "chole bhature",
+    "photoMatch": "dish",
+    "imageGroup": "chole-bhature"
   },
   {
     "id": 12,
@@ -105,7 +165,13 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-012-cheese-dosa-v2.jpg",
+    "imageSubject": "Cheese Dosa",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-012-cheese-dosa-v2",
+    "imageGenerated": true
   },
   {
     "id": 13,
@@ -114,25 +180,42 @@
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/poori.jpg",
+    "imageSubject": "poori potato",
+    "photoMatch": "dish",
+    "imageGroup": "poori"
   },
   {
     "id": 14,
-    "name": "VJ\u2019s Combo 1 (2 Idli + Masala Dosa)",
+    "name": "VJ’s Combo 1 (2 Idli + Masala Dosa)",
     "price": 16,
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-014-idli-dosa-combo-v2.jpg",
+    "imageSubject": "VJ’s Combo 1 (2 Idli + Masala Dosa)",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-014-idli-dosa-combo-v2",
+    "imageGenerated": true
   },
   {
     "id": 15,
-    "name": "VJ\u2019s Combo 2 (2 Vada + Masala Dosa)",
+    "name": "VJ’s Combo 2 (2 Vada + Masala Dosa)",
     "price": 16,
     "category": "Breakfast",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-015-vada-dosa-combo-v2.jpg",
+    "imageSubject": "VJ’s Combo 2 (2 Vada + Masala Dosa)",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-015-vada-dosa-combo-v2",
+    "imageGenerated": true
   },
   {
     "id": 16,
@@ -141,7 +224,12 @@
     "category": "Breakfast",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-016-poori-with-chicken-curry.jpg",
+    "imageSubject": "Chicken curry accompaniment",
+    "photoMatch": "related",
+    "imageGroup": "menu-016-poori-with-chicken-curry"
   },
   {
     "id": 17,
@@ -150,7 +238,12 @@
     "category": "Breakfast",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-017-poori-with-goat-curry.jpg",
+    "imageSubject": "Mutton curry accompaniment",
+    "photoMatch": "related",
+    "imageGroup": "menu-017-poori-with-goat-curry"
   },
   {
     "id": 18,
@@ -159,7 +252,12 @@
     "category": "Soups & Salads",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/corn-soup.jpg",
+    "imageSubject": "corn soup",
+    "photoMatch": "dish",
+    "imageGroup": "corn-soup"
   },
   {
     "id": 19,
@@ -168,7 +266,12 @@
     "category": "Soups & Salads",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/tomato-soup.jpg",
+    "imageSubject": "tomato soup",
+    "photoMatch": "dish",
+    "imageGroup": "tomato-soup"
   },
   {
     "id": 20,
@@ -177,7 +280,12 @@
     "category": "Soups & Salads",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-020-rasam-v2.jpg",
+    "imageSubject": "Rasam",
+    "photoMatch": "dish",
+    "imageGroup": "menu-020-rasam-v2"
   },
   {
     "id": 21,
@@ -186,7 +294,12 @@
     "category": "Soups & Salads",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-021-sambar-v2.jpg",
+    "imageSubject": "Sambar lentil soup",
+    "photoMatch": "dish",
+    "imageGroup": "menu-021-sambar-v2"
   },
   {
     "id": 22,
@@ -195,7 +308,12 @@
     "category": "Soups & Salads",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-022-house-garden-salad.jpg",
+    "imageSubject": "Tomato, cucumber and onion salad",
+    "photoMatch": "dish",
+    "imageGroup": "menu-022-house-garden-salad"
   },
   {
     "id": 23,
@@ -204,7 +322,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-023-samosas-2pcs.jpg",
+    "imageSubject": "Vegetable samosas",
+    "photoMatch": "dish",
+    "imageGroup": "menu-023-samosas-2pcs"
   },
   {
     "id": 24,
@@ -213,7 +336,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mirchi-bajji.jpg",
+    "imageSubject": "mirchi bajji",
+    "photoMatch": "dish",
+    "imageGroup": "mirchi-bajji"
   },
   {
     "id": 25,
@@ -222,7 +350,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/onion-pakora.jpg",
+    "imageSubject": "onion pakora",
+    "photoMatch": "dish",
+    "imageGroup": "onion-pakora"
   },
   {
     "id": 26,
@@ -231,7 +364,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mixed-pakora.jpg",
+    "imageSubject": "mixed pakora",
+    "photoMatch": "dish",
+    "imageGroup": "mixed-pakora"
   },
   {
     "id": 27,
@@ -240,7 +378,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/samosa-chaat.jpg",
+    "imageSubject": "Samosa chaat",
+    "photoMatch": "dish",
+    "imageGroup": "samosa-chaat"
   },
   {
     "id": 28,
@@ -249,7 +392,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/papdi-chaat.jpg",
+    "imageSubject": "papdi chaat",
+    "photoMatch": "dish",
+    "imageGroup": "papdi-chaat"
   },
   {
     "id": 29,
@@ -258,7 +406,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/dahi-puri.jpg",
+    "imageSubject": "dahi puri",
+    "photoMatch": "dish",
+    "imageGroup": "dahi-puri"
   },
   {
     "id": 30,
@@ -267,7 +420,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-030-stuffed-mirchi-bajji.jpg",
+    "imageSubject": "Stuffed Mirchi Bajji",
+    "photoMatch": "dish",
+    "imageGroup": "menu-030-stuffed-mirchi-bajji"
   },
   {
     "id": 31,
@@ -276,7 +434,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chilli-corn.jpg",
+    "imageSubject": "chilli corn",
+    "photoMatch": "dish",
+    "imageGroup": "chilli-corn"
   },
   {
     "id": 32,
@@ -285,7 +448,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chilli-paneer.jpg",
+    "imageSubject": "chilli paneer",
+    "photoMatch": "dish",
+    "imageGroup": "chilli-paneer"
   },
   {
     "id": 33,
@@ -294,7 +462,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/gobi-manchurian.jpg",
+    "imageSubject": "gobi manchurian",
+    "photoMatch": "dish",
+    "imageGroup": "gobi-manchurian"
   },
   {
     "id": 34,
@@ -303,7 +476,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-034-mushroom-pepper-fry.jpg",
+    "imageSubject": "Ghee pepper mushroom fry",
+    "photoMatch": "dish",
+    "imageGroup": "menu-034-mushroom-pepper-fry"
   },
   {
     "id": 35,
@@ -312,7 +490,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/gobi-65.jpg",
+    "imageSubject": "Cauliflower 65",
+    "photoMatch": "dish",
+    "imageGroup": "gobi-65"
   },
   {
     "id": 36,
@@ -321,7 +504,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-036-veg-manchurian.jpg",
+    "imageSubject": "Vegetable Manchurian",
+    "photoMatch": "dish",
+    "imageGroup": "menu-036-veg-manchurian"
   },
   {
     "id": 37,
@@ -330,7 +518,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-037-gobi-manchurian.jpg",
+    "imageSubject": "Gobi Manchurian",
+    "photoMatch": "dish",
+    "imageGroup": "menu-037-gobi-manchurian"
   },
   {
     "id": 38,
@@ -339,7 +532,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/paneer-65.jpg",
+    "imageSubject": "Paneer 65",
+    "photoMatch": "dish",
+    "imageGroup": "paneer-65"
   },
   {
     "id": 39,
@@ -348,7 +546,12 @@
     "category": "Starters",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-039-karvepaku-paneer.jpg",
+    "imageSubject": "Fried paneer appetizer",
+    "photoMatch": "related",
+    "imageGroup": "menu-039-karvepaku-paneer"
   },
   {
     "id": 40,
@@ -357,7 +560,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chilli-chicken.jpg",
+    "imageSubject": "chilli chicken",
+    "photoMatch": "dish",
+    "imageGroup": "chilli-chicken"
   },
   {
     "id": 41,
@@ -366,7 +574,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-65.jpg",
+    "imageSubject": "chicken 65",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-65"
   },
   {
     "id": 42,
@@ -375,7 +588,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-042-ginger-chicken-v2.jpg",
+    "imageSubject": "Ginger chicken",
+    "photoMatch": "dish",
+    "imageGroup": "menu-042-ginger-chicken-v2"
   },
   {
     "id": 43,
@@ -384,7 +602,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-lollipop.jpg",
+    "imageSubject": "chicken lollipop",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-lollipop"
   },
   {
     "id": 44,
@@ -393,7 +616,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-044-chicken-manchurian.jpg",
+    "imageSubject": "Chicken Manchurian",
+    "photoMatch": "dish",
+    "imageGroup": "menu-044-chicken-manchurian"
   },
   {
     "id": 45,
@@ -402,7 +630,13 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-045-chilli-chicken-v2.jpg",
+    "imageSubject": "Chilli Chicken",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-045-chilli-chicken-v2",
+    "imageGenerated": true
   },
   {
     "id": 46,
@@ -411,7 +645,13 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-046-cilantro-chicken-v2.jpg",
+    "imageSubject": "Cilantro Chicken",
+    "photoMatch": "illustration",
+    "imageGroup": "menu-046-cilantro-chicken-v2",
+    "imageGenerated": true
   },
   {
     "id": 47,
@@ -420,7 +660,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/pepper-chicken.jpg",
+    "imageSubject": "pepper chicken",
+    "photoMatch": "dish",
+    "imageGroup": "pepper-chicken"
   },
   {
     "id": 48,
@@ -429,7 +674,13 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-048-karvepaku-chicken.jpg",
+    "imageSubject": "Karvepaku Chicken",
+    "photoMatch": "illustration",
+    "imageGroup": "karvepaku-chicken",
+    "imageGenerated": true
   },
   {
     "id": 49,
@@ -438,7 +689,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/shrimp-fry.jpg",
+    "imageSubject": "Shrimp varuval",
+    "photoMatch": "dish",
+    "imageGroup": "shrimp-fry"
   },
   {
     "id": 50,
@@ -447,7 +703,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-050-shrimp-65.jpg",
+    "imageSubject": "Prawn fry",
+    "photoMatch": "related",
+    "imageGroup": "menu-050-shrimp-65"
   },
   {
     "id": 51,
@@ -456,7 +717,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/fish-pakora.jpg",
+    "imageSubject": "fish pakora",
+    "photoMatch": "dish",
+    "imageGroup": "fish-pakora"
   },
   {
     "id": 52,
@@ -465,7 +731,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/goat-fry.jpg",
+    "imageSubject": "goat fry",
+    "photoMatch": "dish",
+    "imageGroup": "goat-fry"
   },
   {
     "id": 53,
@@ -474,7 +745,13 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-053-goat-ghee-roast.jpg",
+    "imageSubject": "Goat Ghee Roast",
+    "photoMatch": "illustration",
+    "imageGroup": "goat-ghee-roast",
+    "imageGenerated": true
   },
   {
     "id": 54,
@@ -483,7 +760,12 @@
     "category": "Starters",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/lamb-curry.jpg",
+    "imageSubject": "Lamb curry — representative protein; preparation differs",
+    "photoMatch": "related",
+    "imageGroup": "lamb-curry"
   },
   {
     "id": 55,
@@ -492,7 +774,12 @@
     "category": "Tandoor",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mushroom-tikka.jpg",
+    "imageSubject": "mushroom tikka",
+    "photoMatch": "dish",
+    "imageGroup": "mushroom-tikka"
   },
   {
     "id": 56,
@@ -501,7 +788,12 @@
     "category": "Tandoor",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/paneer-tikka.jpg",
+    "imageSubject": "Grilled paneer tikka",
+    "photoMatch": "dish",
+    "imageGroup": "paneer-tikka"
   },
   {
     "id": 57,
@@ -510,7 +802,12 @@
     "category": "Tandoor",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/tandoori-chicken.jpg",
+    "imageSubject": "tandoori chicken",
+    "photoMatch": "dish",
+    "imageGroup": "tandoori-chicken"
   },
   {
     "id": 58,
@@ -519,7 +816,12 @@
     "category": "Tandoor",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-kebab.jpg",
+    "imageSubject": "chicken kebab",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-kebab"
   },
   {
     "id": 59,
@@ -528,7 +830,12 @@
     "category": "Tandoor",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/tandoori-shrimp.jpg",
+    "imageSubject": "tandoori shrimp",
+    "photoMatch": "dish",
+    "imageGroup": "tandoori-shrimp"
   },
   {
     "id": 60,
@@ -537,7 +844,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/bhindi.jpg",
+    "imageSubject": "bhindi",
+    "photoMatch": "dish",
+    "imageGroup": "bhindi"
   },
   {
     "id": 61,
@@ -546,7 +858,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/aloo-gobi.jpg",
+    "imageSubject": "aloo gobi",
+    "photoMatch": "dish",
+    "imageGroup": "aloo-gobi"
   },
   {
     "id": 62,
@@ -555,7 +872,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/dal-tadka.jpg",
+    "imageSubject": "Dal tadka",
+    "photoMatch": "dish",
+    "imageGroup": "dal-tadka"
   },
   {
     "id": 63,
@@ -564,7 +886,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/dal-makhani.jpg",
+    "imageSubject": "Dal makhani",
+    "photoMatch": "dish",
+    "imageGroup": "dal-makhani"
   },
   {
     "id": 64,
@@ -573,7 +900,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/kadai-paneer.jpg",
+    "imageSubject": "kadai paneer",
+    "photoMatch": "dish",
+    "imageGroup": "kadai-paneer"
   },
   {
     "id": 65,
@@ -582,7 +914,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/eggplant-curry.jpg",
+    "imageSubject": "Stuffed eggplant curry",
+    "photoMatch": "dish",
+    "imageGroup": "eggplant-curry"
   },
   {
     "id": 66,
@@ -591,7 +928,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/channa.jpg",
+    "imageSubject": "channa",
+    "photoMatch": "dish",
+    "imageGroup": "channa"
   },
   {
     "id": 67,
@@ -600,7 +942,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/malai-kofta.jpg",
+    "imageSubject": "malai kofta",
+    "photoMatch": "dish",
+    "imageGroup": "malai-kofta"
   },
   {
     "id": 68,
@@ -609,7 +956,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mushroom-curry.jpg",
+    "imageSubject": "Mushroom curry",
+    "photoMatch": "dish",
+    "imageGroup": "mushroom-curry"
   },
   {
     "id": 69,
@@ -618,7 +970,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/palak-paneer.jpg",
+    "imageSubject": "palak paneer",
+    "photoMatch": "dish",
+    "imageGroup": "palak-paneer"
   },
   {
     "id": 70,
@@ -627,7 +984,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/soya-curry.jpg",
+    "imageSubject": "soya curry",
+    "photoMatch": "dish",
+    "imageGroup": "soya-curry"
   },
   {
     "id": 71,
@@ -636,7 +998,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-071-paneer-tikka-masala.jpg",
+    "imageSubject": "Paneer tikka masala",
+    "photoMatch": "dish",
+    "imageGroup": "menu-071-paneer-tikka-masala"
   },
   {
     "id": 72,
@@ -645,7 +1012,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/veg-kurma.jpg",
+    "imageSubject": "veg kurma",
+    "photoMatch": "dish",
+    "imageGroup": "veg-kurma"
   },
   {
     "id": 73,
@@ -654,7 +1026,12 @@
     "category": "Curries",
     "veg": true,
     "image": 1,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-073-mixed-veg-curry.jpg",
+    "imageSubject": "Mixed vegetable curry",
+    "photoMatch": "dish",
+    "imageGroup": "menu-073-mixed-veg-curry"
   },
   {
     "id": 74,
@@ -663,7 +1040,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-curry.jpg",
+    "imageSubject": "Chicken curry",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-curry"
   },
   {
     "id": 75,
@@ -672,7 +1054,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/egg-curry.jpg",
+    "imageSubject": "egg curry",
+    "photoMatch": "dish",
+    "imageGroup": "egg-curry"
   },
   {
     "id": 76,
@@ -681,7 +1068,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-076-chicken-tikka-masala.jpg",
+    "imageSubject": "Chicken Tikka Masala",
+    "photoMatch": "dish",
+    "imageGroup": "menu-076-chicken-tikka-masala"
   },
   {
     "id": 77,
@@ -690,7 +1082,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-077-chicken-chetinadu.jpg",
+    "imageSubject": "Chicken Chetinadu",
+    "photoMatch": "dish",
+    "imageGroup": "menu-077-chicken-chetinadu"
   },
   {
     "id": 78,
@@ -699,7 +1096,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-kurma.jpg",
+    "imageSubject": "Chicken kurma",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-kurma"
   },
   {
     "id": 79,
@@ -708,7 +1110,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-vindaloo.jpg",
+    "imageSubject": "Chicken vindaloo",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-vindaloo"
   },
   {
     "id": 80,
@@ -717,7 +1124,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-080-kadai-chicken.jpg",
+    "imageSubject": "Kadai Chicken",
+    "photoMatch": "dish",
+    "imageGroup": "menu-080-kadai-chicken"
   },
   {
     "id": 81,
@@ -726,7 +1138,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/gongura-chicken.jpg",
+    "imageSubject": "Gongura chicken with rice",
+    "photoMatch": "dish",
+    "imageGroup": "gongura-chicken"
   },
   {
     "id": 82,
@@ -735,7 +1152,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-082-chicken-saag-curry.jpg",
+    "imageSubject": "Chicken Saag Curry",
+    "photoMatch": "dish",
+    "imageGroup": "menu-082-chicken-saag-curry"
   },
   {
     "id": 83,
@@ -744,7 +1166,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/goat-curry.jpg",
+    "imageSubject": "goat curry",
+    "photoMatch": "dish",
+    "imageGroup": "goat-curry"
   },
   {
     "id": 84,
@@ -753,7 +1180,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-084-goat-kurma.jpg",
+    "imageSubject": "Mutton kurma",
+    "photoMatch": "dish",
+    "imageGroup": "menu-084-goat-kurma"
   },
   {
     "id": 85,
@@ -762,7 +1194,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-085-kadai-goat.jpg",
+    "imageSubject": "Kadai mutton",
+    "photoMatch": "dish",
+    "imageGroup": "menu-085-kadai-goat"
   },
   {
     "id": 86,
@@ -771,7 +1208,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-086-gongura-goat-curry.jpg",
+    "imageSubject": "goat curry",
+    "photoMatch": "related",
+    "imageGroup": "menu-086-gongura-goat-curry"
   },
   {
     "id": 87,
@@ -780,7 +1222,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/fish-curry.jpg",
+    "imageSubject": "fish curry",
+    "photoMatch": "dish",
+    "imageGroup": "fish-curry"
   },
   {
     "id": 88,
@@ -789,7 +1236,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-088-lamb-curry.jpg",
+    "imageSubject": "Lamb curry",
+    "photoMatch": "dish",
+    "imageGroup": "menu-088-lamb-curry"
   },
   {
     "id": 89,
@@ -798,7 +1250,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/lamb-vindaloo.jpg",
+    "imageSubject": "Lamb vindaloo",
+    "photoMatch": "dish",
+    "imageGroup": "lamb-vindaloo"
   },
   {
     "id": 90,
@@ -807,7 +1264,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/shrimp-curry.jpg",
+    "imageSubject": "shrimp curry",
+    "photoMatch": "dish",
+    "imageGroup": "shrimp-curry"
   },
   {
     "id": 91,
@@ -816,7 +1278,12 @@
     "category": "Curries",
     "veg": false,
     "image": 0,
-    "description": "An Indian classic, rich with warming spices."
+    "description": "An Indian classic, rich with warming spices.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-091-malabar-coconut-shrimp.jpg",
+    "imageSubject": "shrimp curry",
+    "photoMatch": "related",
+    "imageGroup": "menu-091-malabar-coconut-shrimp"
   },
   {
     "id": 92,
@@ -825,7 +1292,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/roti.jpg",
+    "imageSubject": "roti",
+    "photoMatch": "dish",
+    "imageGroup": "roti"
   },
   {
     "id": 93,
@@ -834,7 +1306,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/naan.jpg",
+    "imageSubject": "Naan",
+    "photoMatch": "dish",
+    "imageGroup": "naan"
   },
   {
     "id": 94,
@@ -843,7 +1320,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-094-butter-naan.jpg",
+    "imageSubject": "Butter Naan",
+    "photoMatch": "dish",
+    "imageGroup": "menu-094-butter-naan"
   },
   {
     "id": 95,
@@ -852,7 +1334,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-095-garlic-naan.jpg",
+    "imageSubject": "Garlic Naan",
+    "photoMatch": "dish",
+    "imageGroup": "menu-095-garlic-naan"
   },
   {
     "id": 96,
@@ -861,7 +1348,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-096-cheese-naan.jpg",
+    "imageSubject": "Cheese Naan",
+    "photoMatch": "dish",
+    "imageGroup": "menu-096-cheese-naan"
   },
   {
     "id": 97,
@@ -870,7 +1362,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-097-bullet-naan.jpg",
+    "imageSubject": "Garlic naan",
+    "photoMatch": "related",
+    "imageGroup": "menu-097-bullet-naan"
   },
   {
     "id": 98,
@@ -879,7 +1376,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/kulcha.jpg",
+    "imageSubject": "kulcha",
+    "photoMatch": "dish",
+    "imageGroup": "kulcha"
   },
   {
     "id": 99,
@@ -888,7 +1390,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-099-paneer-kulcha.jpg",
+    "imageSubject": "Kulcha bread",
+    "photoMatch": "related",
+    "imageGroup": "menu-099-paneer-kulcha"
   },
   {
     "id": 100,
@@ -897,7 +1404,12 @@
     "category": "Breads",
     "veg": true,
     "image": 0,
-    "description": "The perfect companion for your favourite curry."
+    "description": "The perfect companion for your favourite curry.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/aloo-paratha.jpg",
+    "imageSubject": "aloo paratha",
+    "photoMatch": "dish",
+    "imageGroup": "aloo-paratha"
   },
   {
     "id": 101,
@@ -906,7 +1418,12 @@
     "category": "Indo-Chinese",
     "veg": false,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-fried-rice.jpg",
+    "imageSubject": "Chicken fried rice",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-fried-rice"
   },
   {
     "id": 102,
@@ -915,7 +1432,12 @@
     "category": "Indo-Chinese",
     "veg": false,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chicken-noodles.jpg",
+    "imageSubject": "chicken noodles",
+    "photoMatch": "dish",
+    "imageGroup": "chicken-noodles"
   },
   {
     "id": 103,
@@ -924,7 +1446,12 @@
     "category": "Indo-Chinese",
     "veg": true,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/fried-rice.jpg",
+    "imageSubject": "fried rice",
+    "photoMatch": "dish",
+    "imageGroup": "fried-rice"
   },
   {
     "id": 104,
@@ -933,7 +1460,12 @@
     "category": "Indo-Chinese",
     "veg": true,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/noodles.jpg",
+    "imageSubject": "noodles",
+    "photoMatch": "dish",
+    "imageGroup": "noodles"
   },
   {
     "id": 105,
@@ -942,7 +1474,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/veg-biryani.jpg",
+    "imageSubject": "Vegetable biryani",
+    "photoMatch": "dish",
+    "imageGroup": "veg-biryani"
   },
   {
     "id": 106,
@@ -951,7 +1488,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/paneer-biryani.jpg",
+    "imageSubject": "Paneer vegetable biryani",
+    "photoMatch": "dish",
+    "imageGroup": "paneer-biryani"
   },
   {
     "id": 107,
@@ -960,7 +1502,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mushroom-biryani.jpg",
+    "imageSubject": "Mushroom biryani",
+    "photoMatch": "dish",
+    "imageGroup": "mushroom-biryani"
   },
   {
     "id": 108,
@@ -969,7 +1516,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/eggplant-rice.jpg",
+    "imageSubject": "eggplant rice",
+    "photoMatch": "dish",
+    "imageGroup": "eggplant-rice"
   },
   {
     "id": 109,
@@ -978,7 +1530,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-109-gongura-paneer-biryani.jpg",
+    "imageSubject": "Paneer biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-109-gongura-paneer-biryani"
   },
   {
     "id": 110,
@@ -987,7 +1544,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-110-ulavacharu-paneer-biryani.jpg",
+    "imageSubject": "Vegetable biryani with paneer curry",
+    "photoMatch": "related",
+    "imageGroup": "menu-110-ulavacharu-paneer-biryani"
   },
   {
     "id": 111,
@@ -996,7 +1558,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/veg-pulao.jpg",
+    "imageSubject": "veg pulao",
+    "photoMatch": "dish",
+    "imageGroup": "veg-pulao"
   },
   {
     "id": 112,
@@ -1005,7 +1572,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-112-soya-chunk-pepper-pulao.jpg",
+    "imageSubject": "Soya chunk vegetable pulao",
+    "photoMatch": "dish",
+    "imageGroup": "menu-112-soya-chunk-pepper-pulao"
   },
   {
     "id": 113,
@@ -1014,7 +1586,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-113-paneer-pulao.jpg",
+    "imageSubject": "Paneer Pulao",
+    "photoMatch": "dish",
+    "imageGroup": "menu-113-paneer-pulao"
   },
   {
     "id": 114,
@@ -1023,7 +1600,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-114-methi-paneer-pulao.jpg",
+    "imageSubject": "Methi paneer rice",
+    "photoMatch": "dish",
+    "imageGroup": "menu-114-methi-paneer-pulao"
   },
   {
     "id": 115,
@@ -1032,7 +1614,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-115-gobi-pulao.jpg",
+    "imageSubject": "veg pulao",
+    "photoMatch": "related",
+    "imageGroup": "menu-115-gobi-pulao"
   },
   {
     "id": 116,
@@ -1041,7 +1628,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-116-gutthi-vankaya-pulao.jpg",
+    "imageSubject": "Eggplant rice",
+    "photoMatch": "dish",
+    "imageGroup": "menu-116-gutthi-vankaya-pulao"
   },
   {
     "id": 117,
@@ -1050,7 +1642,12 @@
     "category": "Biryani & Pulao",
     "veg": true,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-117-mushroom-pepper-pulao.jpg",
+    "imageSubject": "Mushroom biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-117-mushroom-pepper-pulao"
   },
   {
     "id": 118,
@@ -1059,7 +1656,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/egg-biryani.jpg",
+    "imageSubject": "Egg biryani",
+    "photoMatch": "dish",
+    "imageGroup": "egg-biryani"
   },
   {
     "id": 119,
@@ -1068,7 +1670,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-119-vijayawada-chicken-biryani.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-119-vijayawada-chicken-biryani"
   },
   {
     "id": 120,
@@ -1077,7 +1684,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-120-chicken-65-biryani.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-120-chicken-65-biryani"
   },
   {
     "id": 121,
@@ -1086,7 +1698,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-121-chicken-fry-piece-biryani.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-121-chicken-fry-piece-biryani"
   },
   {
     "id": 122,
@@ -1095,7 +1712,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-122-ulavacharu-chicken-biryani.jpg",
+    "imageSubject": "Ulavacharu Chicken Biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-122-ulavacharu-chicken-biryani"
   },
   {
     "id": 123,
@@ -1104,7 +1726,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/goat-biryani.jpg",
+    "imageSubject": "Mutton biryani",
+    "photoMatch": "dish",
+    "imageGroup": "goat-biryani"
   },
   {
     "id": 124,
@@ -1113,7 +1740,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-124-goat-ghee-roast-biryani.jpg",
+    "imageSubject": "Mutton biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-124-goat-ghee-roast-biryani"
   },
   {
     "id": 125,
@@ -1122,7 +1754,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-125-gongura-goat-biryani.jpg",
+    "imageSubject": "Mutton biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-125-gongura-goat-biryani"
   },
   {
     "id": 126,
@@ -1131,7 +1768,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/shrimp-biryani.jpg",
+    "imageSubject": "shrimp biryani",
+    "photoMatch": "dish",
+    "imageGroup": "shrimp-biryani"
   },
   {
     "id": 127,
@@ -1140,7 +1782,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-127-gongura-shrimp-biryani.jpg",
+    "imageSubject": "Gongura Shrimp Biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-127-gongura-shrimp-biryani"
   },
   {
     "id": 128,
@@ -1149,7 +1796,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-128-lamb-biryani.jpg",
+    "imageSubject": "Lamb Biryani",
+    "photoMatch": "dish",
+    "imageGroup": "menu-128-lamb-biryani"
   },
   {
     "id": 129,
@@ -1158,7 +1810,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-129-chicken-fry-piece-pulao.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-129-chicken-fry-piece-pulao"
   },
   {
     "id": 130,
@@ -1167,7 +1824,12 @@
     "category": "Biryani & Pulao",
     "veg": false,
     "image": 2,
-    "description": "Fragrant rice and layered spices, made for a hearty meal."
+    "description": "Fragrant rice and layered spices, made for a hearty meal.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-130-andhra-mutton-pulao.jpg",
+    "imageSubject": "Andhra mutton pulao",
+    "photoMatch": "dish",
+    "imageGroup": "menu-130-andhra-mutton-pulao"
   },
   {
     "id": 131,
@@ -1176,7 +1838,12 @@
     "category": "Weekend Specials",
     "veg": false,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-131-talapakatti-chicken-biryani.jpg",
+    "imageSubject": "Chicken biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-131-talapakatti-chicken-biryani"
   },
   {
     "id": 132,
@@ -1185,7 +1852,12 @@
     "category": "Weekend Specials",
     "veg": false,
     "image": 2,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-132-talapakatti-goat-biryani.jpg",
+    "imageSubject": "Mutton biryani",
+    "photoMatch": "related",
+    "imageGroup": "menu-132-talapakatti-goat-biryani"
   },
   {
     "id": 133,
@@ -1194,7 +1866,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/soda.jpg",
+    "imageSubject": "soda",
+    "photoMatch": "dish",
+    "imageGroup": "soda"
   },
   {
     "id": 134,
@@ -1203,7 +1880,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/mango-lassi.jpg",
+    "imageSubject": "Mango lassi",
+    "photoMatch": "dish",
+    "imageGroup": "mango-lassi"
   },
   {
     "id": 135,
@@ -1212,7 +1894,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/rose-milk.jpg",
+    "imageSubject": "rose milk",
+    "photoMatch": "dish",
+    "imageGroup": "rose-milk"
   },
   {
     "id": 136,
@@ -1221,7 +1908,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/almond-milk.jpg",
+    "imageSubject": "almond milk",
+    "photoMatch": "dish",
+    "imageGroup": "almond-milk"
   },
   {
     "id": 137,
@@ -1230,7 +1922,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/plain-lassi.jpg",
+    "imageSubject": "plain lassi",
+    "photoMatch": "dish",
+    "imageGroup": "plain-lassi"
   },
   {
     "id": 138,
@@ -1239,7 +1936,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/chai.jpg",
+    "imageSubject": "chai",
+    "photoMatch": "dish",
+    "imageGroup": "chai"
   },
   {
     "id": 139,
@@ -1248,7 +1950,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/coffee.jpg",
+    "imageSubject": "coffee",
+    "photoMatch": "dish",
+    "imageGroup": "coffee"
   },
   {
     "id": 140,
@@ -1257,7 +1964,12 @@
     "category": "Drinks",
     "veg": true,
     "image": 1,
-    "description": "A refreshing accompaniment to your favourites."
+    "description": "A refreshing accompaniment to your favourites.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-140-irani-chai.jpg",
+    "imageSubject": "Irani Chai",
+    "photoMatch": "dish",
+    "imageGroup": "menu-140-irani-chai"
   },
   {
     "id": 141,
@@ -1266,7 +1978,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/gulab-jamun.jpg",
+    "imageSubject": "Gulab jamun",
+    "photoMatch": "dish",
+    "imageGroup": "gulab-jamun"
   },
   {
     "id": 142,
@@ -1275,7 +1992,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/kheer.jpg",
+    "imageSubject": "kheer",
+    "photoMatch": "dish",
+    "imageGroup": "kheer"
   },
   {
     "id": 143,
@@ -1284,7 +2006,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/rasgulla.jpg",
+    "imageSubject": "rasgulla",
+    "photoMatch": "dish",
+    "imageGroup": "rasgulla"
   },
   {
     "id": 144,
@@ -1293,7 +2020,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/sevai.jpg",
+    "imageSubject": "sevai",
+    "photoMatch": "dish",
+    "imageGroup": "sevai"
   },
   {
     "id": 145,
@@ -1302,7 +2034,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/carrot-halwa.jpg",
+    "imageSubject": "carrot halwa",
+    "photoMatch": "dish",
+    "imageGroup": "carrot-halwa"
   },
   {
     "id": 146,
@@ -1311,7 +2048,12 @@
     "category": "Desserts",
     "veg": true,
     "image": 1,
-    "description": "A sweet finish to a meal worth sharing."
+    "description": "A sweet finish to a meal worth sharing.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/coconut-barfi.jpg",
+    "imageSubject": "coconut barfi",
+    "photoMatch": "dish",
+    "imageGroup": "coconut-barfi"
   },
   {
     "id": 147,
@@ -1320,7 +2062,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-147-extra-sambar.jpg",
+    "imageSubject": "Sambar",
+    "photoMatch": "dish",
+    "imageGroup": "menu-147-extra-sambar"
   },
   {
     "id": 148,
@@ -1329,7 +2076,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/papad.jpg",
+    "imageSubject": "papad",
+    "photoMatch": "dish",
+    "imageGroup": "papad"
   },
   {
     "id": 149,
@@ -1338,7 +2090,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/raita.jpg",
+    "imageSubject": "raita",
+    "photoMatch": "dish",
+    "imageGroup": "raita"
   },
   {
     "id": 150,
@@ -1347,7 +2104,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/fries.jpg",
+    "imageSubject": "fries",
+    "photoMatch": "dish",
+    "imageGroup": "fries"
   },
   {
     "id": 151,
@@ -1356,7 +2118,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-151-masala-fries.jpg",
+    "imageSubject": "Seasoned fries",
+    "photoMatch": "related",
+    "imageGroup": "menu-151-masala-fries"
   },
   {
     "id": 152,
@@ -1365,7 +2132,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/lemon-rice.jpg",
+    "imageSubject": "lemon rice",
+    "photoMatch": "dish",
+    "imageGroup": "lemon-rice"
   },
   {
     "id": 153,
@@ -1374,7 +2146,12 @@
     "category": "Sides",
     "veg": true,
     "image": 1,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/curd-rice.jpg",
+    "imageSubject": "curd rice",
+    "photoMatch": "dish",
+    "imageGroup": "curd-rice"
   },
   {
     "id": 154,
@@ -1383,6 +2160,147 @@
     "category": "Sides",
     "veg": false,
     "image": 0,
-    "description": "From the VJ\u2019s Kitchen dine-in menu."
+    "description": "From the VJ’s Kitchen dine-in menu.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-154-butter-chicken-fries.jpg",
+    "imageSubject": "Butter Chicken Fries",
+    "photoMatch": "illustration",
+    "imageGroup": "butter-chicken-fries",
+    "imageGenerated": true
+  },
+  {
+    "id": 155,
+    "category": "Thali & Buffet",
+    "name": "Veg Thali",
+    "price": 15,
+    "veg": true,
+    "description": "Friday–Sunday · 11:00 AM–2:30 PM Pacific. Chef-selected accompaniments.",
+    "image": 0,
+    "availability": "Friday–Sunday · 11:00 AM–2:30 PM Pacific. Chef-selected accompaniments.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/veg-thali.jpg",
+    "imageSubject": "veg thali",
+    "photoMatch": "dish",
+    "imageGroup": "veg-thali"
+  },
+  {
+    "id": 156,
+    "category": "Thali & Buffet",
+    "name": "Non-Veg Thali",
+    "price": 17,
+    "veg": false,
+    "description": "Friday–Sunday · 11:00 AM–2:30 PM Pacific. Chef-selected accompaniments.",
+    "image": 0,
+    "availability": "Friday–Sunday · 11:00 AM–2:30 PM Pacific. Chef-selected accompaniments.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/nonveg-thali.jpg",
+    "imageSubject": "nonveg thali",
+    "photoMatch": "dish",
+    "imageGroup": "nonveg-thali"
+  },
+  {
+    "id": 157,
+    "category": "Thali & Buffet",
+    "name": "Lunch Buffet — Adults",
+    "price": 23,
+    "veg": null,
+    "description": "Tuesday–Thursday · 11:00 AM–2:30 PM Pacific. Rotating selection; call for availability.",
+    "image": 0,
+    "availability": "Tuesday–Thursday · 11:00 AM–2:30 PM Pacific. Rotating selection; call for availability.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-157-lunch-buffet-adults.jpg",
+    "imageSubject": "Representative Indian meal",
+    "photoMatch": "related",
+    "imageGroup": "menu-157-lunch-buffet-adults"
+  },
+  {
+    "id": 158,
+    "category": "Thali & Buffet",
+    "name": "Lunch Buffet — Kids",
+    "price": 13,
+    "veg": null,
+    "description": "Tuesday–Thursday · 11:00 AM–2:30 PM Pacific. Rotating selection; call for availability.",
+    "image": 0,
+    "availability": "Tuesday–Thursday · 11:00 AM–2:30 PM Pacific. Rotating selection; call for availability.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-158-lunch-buffet-kids.jpg",
+    "imageSubject": "Representative Indian meal",
+    "photoMatch": "related",
+    "imageGroup": "menu-158-lunch-buffet-kids"
+  },
+  {
+    "id": 159,
+    "category": "Thali Upgrades",
+    "name": "Vegetarian Thali Upgrade",
+    "price": 7,
+    "veg": true,
+    "description": "Add to a vegetarian entrée. Includes veg starter, sambar, papad, roti, salad and dessert.",
+    "image": 0,
+    "availability": "Add to a vegetarian entrée. Includes veg starter, sambar, papad, roti, salad and dessert.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-159-vegetarian-thali-upgrade.jpg",
+    "imageSubject": "Vegetarian Thali Upgrade",
+    "photoMatch": "dish",
+    "imageGroup": "menu-159-vegetarian-thali-upgrade"
+  },
+  {
+    "id": 160,
+    "category": "Thali Upgrades",
+    "name": "Non-Vegetarian Thali Upgrade",
+    "price": 8,
+    "veg": false,
+    "description": "Add to a non-vegetarian entrée. Includes non-veg starter, raita, salad, roti and dessert.",
+    "image": 0,
+    "availability": "Add to a non-vegetarian entrée. Includes non-veg starter, raita, salad, roti and dessert.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-160-non-vegetarian-thali-upgrade.jpg",
+    "imageSubject": "Non-Vegetarian Thali Upgrade",
+    "photoMatch": "dish",
+    "imageGroup": "menu-160-non-vegetarian-thali-upgrade"
+  },
+  {
+    "id": 161,
+    "category": "Wine & Beer",
+    "name": "Glass of Wine",
+    "price": 6,
+    "veg": null,
+    "description": "21+ only. Ask the restaurant for the available selection.",
+    "image": 0,
+    "availability": "21+ only. Ask the restaurant for the available selection.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/wine.jpg",
+    "imageSubject": "wine",
+    "photoMatch": "dish",
+    "imageGroup": "wine"
+  },
+  {
+    "id": 162,
+    "category": "Wine & Beer",
+    "name": "Small Beer",
+    "price": 6,
+    "veg": null,
+    "description": "21+ only. Ask the restaurant for the available selection.",
+    "image": 0,
+    "availability": "21+ only. Ask the restaurant for the available selection.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/beer.jpg",
+    "imageSubject": "beer",
+    "photoMatch": "dish",
+    "imageGroup": "beer"
+  },
+  {
+    "id": 163,
+    "category": "Wine & Beer",
+    "name": "Large Beer",
+    "price": 11,
+    "veg": null,
+    "description": "21+ only. Ask the restaurant for the available selection.",
+    "image": 0,
+    "availability": "21+ only. Ask the restaurant for the available selection.",
+    "source": "Supplied VJ’s Kitchen dine-in menu PDF",
+    "photo": "/images/menu-163-large-beer.jpg",
+    "imageSubject": "Pint of beer",
+    "photoMatch": "dish",
+    "imageGroup": "menu-163-large-beer"
   }
 ]
