@@ -42,3 +42,7 @@ Official reference sites reviewed: [Dishoom](https://www.dishoom.com/), [Semma](
 The current design uses parchment, oxblood, warm brass, editorial serif typography, a large arched feast photograph, interactive menu preview tabs, family storytelling, lunch details, and a Sacramento location section. `src/pages/Home.jsx` contains the homepage.
 
 `public/images/indian-feast.jpg` is illustrative AI-generated imagery created with the built-in image_gen tool. Its exact prompt is saved in `public/images/indian-feast.prompt.txt`. Other food photography remains illustrative Unsplash imagery. No star ratings or awards are claimed.
+
+## Location details
+
+The user-supplied Google Maps screenshot confirms VJ’s Kitchen at 2600 Gateway Oaks Dr., #100, Sacramento, CA 95833, United States; phone 916-927-2600; dine-in, takeaway, and no-contact delivery. The screenshot’s phone supersedes the previous PDF-derived number for this restaurant. `src/data/location.js` provides shared map, address and telephone configuration; `src/components/Location.jsx` renders homepage/contact location details. Full opening hours were not supplied, so the site invites guests to call rather than extrapolating a weekly schedule from the screenshot’s temporary status.
