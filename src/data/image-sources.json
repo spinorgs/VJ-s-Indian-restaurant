@@ -1987,5 +1987,15 @@
     "source": "/images/home-lunch-editorial.prompt.txt",
     "illustrative": true,
     "changes": "Encoded as JPEG for homepage display. Representative illustration, not actual restaurant photography or a promise of exact portions."
+  },
+  {
+    "file": "home-feast-hd.jpg",
+    "subject": "Indian feast with butter chicken, naan and biryani",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/home-feast-hd.prompt.txt",
+    "illustrative": true,
+    "changes": "JPEG illustration used for the mobile homepage hero. Not actual restaurant photography."
   }
 ]

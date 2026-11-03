@@ -51,3 +51,20 @@ html{scroll-padding-top:110px}body{min-width:320px}.site-shell main img{max-widt
 .site-shell .atelier-gather.gathering-motion-on .gathering-glow{animation:gathering-glow-drift 12s ease-in-out infinite!important}
 .site-shell .atelier-gather.gathering-motion-on .floating-particles>span{animation:mobile-gathering-float 8s var(--delay) ease-in-out infinite!important;will-change:transform,opacity}
 .site-shell .atelier-gather.gathering-motion-off .gathering-leaf,.site-shell .atelier-gather.gathering-motion-off .gathering-orbit,.site-shell .atelier-gather.gathering-motion-off .gathering-glow,.site-shell .atelier-gather.gathering-motion-off .floating-particles>span{animation-play-state:paused}
+
+/* Phone hero uses a food-filled composition rather than the wide desktop crop. */
+@media(max-width:600px){
+ .site-shell .atelier-home .atelier-hero picture{height:auto;aspect-ratio:4/3;max-height:350px}
+ .site-shell .atelier-home .atelier-hero picture img{object-fit:cover;object-position:50% 48%}
+ .site-shell .atelier-home .atelier-hero-content{padding:25px 6% 30px}
+ .site-shell .atelier-home .atelier-hero h1{font-size:clamp(39px,10.6vw,58px);line-height:1.1;letter-spacing:-1.25px;margin:12px 0 16px}
+ .site-shell .atelier-home .atelier-hero-content>p:not(.atelier-eyebrow){font-size:14px;line-height:1.75;max-width:32ch}
+ .site-shell .atelier-home .atelier-hero .atelier-actions{margin-top:21px;gap:10px}
+ .site-shell .atelier-home .atelier-hero .atelier-button,.site-shell .atelier-home .atelier-hero .atelier-link{font-size:12px;min-height:48px;padding:12px 10px}
+ .site-shell .atelier-home .atelier-eyebrow{font-size:9px;letter-spacing:1.1px}
+ .site-shell .atelier-home h2{font-size:clamp(31px,8vw,41px);line-height:1.18;letter-spacing:-.8px}
+ .site-shell .atelier-home .atelier-intro h2{font-size:clamp(29px,7.5vw,39px)}
+ .site-shell .atelier-home .atelier-collection-title h3{font-size:clamp(23px,6vw,29px);letter-spacing:-.5px}
+ .site-shell .atelier-home .atelier-intro>p:not(.atelier-eyebrow),.site-shell .atelier-home .atelier-gather-copy>p:not(.atelier-eyebrow),.site-shell .atelier-home .atelier-lunch-copy>p:not(.atelier-eyebrow):not(.atelier-note){font-size:14px;line-height:1.85}
+ .site-shell .atelier-home .atelier-gather-copy>p.atelier-note{font-size:11px}
+}

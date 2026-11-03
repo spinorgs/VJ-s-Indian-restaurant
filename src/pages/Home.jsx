@@ -17,7 +17,7 @@ function Marquee(){return <section className="gathering-marquee" aria-label="Gat
 export default function Home(){const [gatheringMotion,setGatheringMotion]=useState(true);return <div className="atelier-home">
   <Marquee/>
   <section className="atelier-hero" aria-labelledby="home-title">
-    <picture><img src="/images/kitchen-editorial-hero.jpg" alt="AI-generated illustration of chicken biryani, butter chicken and garlic naan on a warm wooden table" width="1536" height="1024" fetchPriority="high"/></picture>
+    <picture><source media="(max-width: 600px)" srcSet="/images/home-feast-hd.jpg"/><img src="/images/kitchen-editorial-hero.jpg" alt="AI-generated illustration of an Indian feast with biryani, butter chicken and naan" width="1536" height="1024" fetchPriority="high"/></picture>
     <FloatingParticles/>
     <div className="atelier-hero-content"><p className="atelier-eyebrow">VJ’S KITCHEN · SACRAMENTO</p><h1 id="home-title">A little spice.<br/>A lot of <em>soul.</em></h1><p>India’s familiar flavors.<br/> Sacramento’s shared table.</p><div className="atelier-actions"><Link className="atelier-button" to="/menu">Explore our menu</Link><a className="atelier-link light" href={orderingUrl} target="_blank" rel="noreferrer">Order online</a></div></div>
 
