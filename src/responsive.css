@@ -11,3 +11,24 @@ html{scroll-padding-top:110px}body{min-width:320px}.site-shell main img{max-widt
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 @media(min-width:761px) and (max-width:1100px){.site-shell .atelier-home .atelier-hero-content{max-width:66%}.site-shell .atelier-home .atelier-hero h1{font-size:clamp(54px,6.8vw,72px);letter-spacing:-2px}}
+
+/* Keep the gathering animation clearly visible on smaller screens. */
+@media(max-width:760px){
+ .site-shell .atelier-gather .gathering-drifters{display:block}
+ .site-shell .atelier-gather .gathering-leaf{display:block;width:30px;height:40px;opacity:.36;animation-duration:12s}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(n+7){display:none}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(1){left:3%;top:5%}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(2){left:83%;top:9%}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(3){left:91%;top:38%}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(4){left:3%;top:53%}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(5){left:85%;top:74%}
+ .site-shell .atelier-gather .gathering-leaf:nth-of-type(6){left:12%;top:94%}
+ .site-shell .atelier-gather .gathering-orbit{width:160px;height:160px;border-color:#dfc28b55;animation-duration:16s}
+ .site-shell .atelier-gather .orbit-one{left:-100px;top:1%}
+ .site-shell .atelier-gather .orbit-two{right:-95px;bottom:2%;width:190px;height:190px}
+ .site-shell .atelier-gather .gathering-orbit:before{border-color:#dfc28b44}
+ .site-shell .atelier-gather .floating-particles>span:nth-child(-n+30){display:block;width:3px;height:3px;animation-name:mobile-gathering-float;animation-duration:10s;background:#f3d59d}
+ .site-shell .atelier-gather .gathering-glow{opacity:.8}
+}
+@keyframes mobile-gathering-float{0%,100%{transform:translate3d(0,12px,0);opacity:.25}50%{transform:translate3d(18px,-28px,0);opacity:.65}}
+@media(prefers-reduced-motion:reduce){.site-shell .atelier-gather .gathering-drifters,.site-shell .atelier-gather .floating-particles{display:none}}
