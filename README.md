@@ -85,3 +85,11 @@ Validation: all 163 menu images decode, have attribution/provenance records, and
 ## Dosa and chicken illustration refresh
 
 Replaced Chilli Chicken, Cilantro Chicken, six dosa varieties and both dosa breakfast combos with ten distinct, dish-specific AI illustrations. Menu cards, details and recipe cards identify generated imagery; prompts and provenance are retained. Combo illustrations show two idlis or two medu vadas alongside one masala dosa. All 163 menu images remain distinct and decode successfully; production build passes.
+
+## Editorial homepage refresh — November 2026
+
+Reference sites reviewed: Benares and Veeraswamy supplied readable page and image structure; Farzi supplied searchable site content and a client-rendered shell. Gymkhana blocks automated access with a security checkpoint. No reference-site photography or restaurant claims were copied.
+
+The homepage now uses a full-width food hero, serif headings, three distinct food collections, a lunch section, and a text-led gatherings section. Each homepage photo appears once. Menu, ordering handoff, social links, attributed testimonials, location and footer remain available. Mobile navigation and layouts were checked in local Chrome at 390, 820 and 1440 pixels.
+
+`public/images/kitchen-editorial-hero.jpg` is a 1536 × 1024 AI-generated illustration created with the built-in image tool. The original is retained in the generation Library; the exact prompt is in `public/images/kitchen-editorial-hero.prompt.txt`. It is labeled on the homepage and included in Photo Credits. Other homepage food photos retain their existing stock-photo attributions. These do not represent actual restaurant photography.

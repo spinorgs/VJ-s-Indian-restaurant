@@ -1937,5 +1937,55 @@
     "source": "/images/menu-015-vada-dosa-combo-v2.jpg.prompt.txt",
     "illustrative": true,
     "changes": "Encoded as JPEG and displayed with responsive cropping. Not actual restaurant photography."
+  },
+  {
+    "file": "kitchen-editorial-hero.jpg",
+    "subject": "Indian dinner with chicken biryani, butter chicken and garlic naan",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/kitchen-editorial-hero.prompt.txt",
+    "illustrative": true,
+    "changes": "Encoded as JPEG with responsive cropping. Not actual restaurant photography."
+  },
+  {
+    "file": "home-starter-editorial.jpg",
+    "subject": "Golden cooked samosas with potato and pea filling",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/home-starter-editorial.prompt.txt",
+    "illustrative": true,
+    "changes": "Encoded as JPEG for homepage display. Representative illustration, not actual restaurant photography or a promise of exact portions."
+  },
+  {
+    "file": "home-dosa-editorial.jpg",
+    "subject": "Masala dosa with chutneys and sambar",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/home-dosa-editorial.prompt.txt",
+    "illustrative": true,
+    "changes": "Encoded as JPEG for homepage display. Representative illustration, not actual restaurant photography or a promise of exact portions."
+  },
+  {
+    "file": "home-curry-editorial.jpg",
+    "subject": "Paneer butter masala",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/home-curry-editorial.prompt.txt",
+    "illustrative": true,
+    "changes": "Encoded as JPEG for homepage display. Representative illustration, not actual restaurant photography or a promise of exact portions."
+  },
+  {
+    "file": "home-lunch-editorial.jpg",
+    "subject": "Representative vegetarian thali",
+    "generated": true,
+    "photographer": "OpenAI image_gen",
+    "license": "AI-generated illustration",
+    "source": "/images/home-lunch-editorial.prompt.txt",
+    "illustrative": true,
+    "changes": "Encoded as JPEG for homepage display. Representative illustration, not actual restaurant photography or a promise of exact portions."
   }
 ]
