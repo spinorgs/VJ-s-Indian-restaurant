@@ -41,3 +41,13 @@ html{scroll-padding-top:110px}body{min-width:320px}.site-shell main img{max-widt
  .site-shell .atelier-gather .floating-particles{display:block}
  .site-shell .atelier-gather .floating-particles>span{animation:none;opacity:.4;transform:none;will-change:auto}
 }
+
+/* User-requested motion has an explicit local pause control. */
+.site-shell .atelier-gather .gathering-motion-control{position:absolute;right:6%;bottom:12px;z-index:4;font-size:11px;line-height:1.5;color:#ead5a9;padding:10px 12px;min-height:40px;border:1px solid #dfc28b55;border-radius:4px;background:#452527}
+.site-shell .atelier-gather.gathering-motion-on .gathering-drifters,.site-shell .atelier-gather.gathering-motion-on .floating-particles{display:block}
+.site-shell .atelier-gather.gathering-motion-on .gathering-leaf{animation:gathering-leaf-drift 12s var(--leaf-delay) ease-in-out infinite}
+.site-shell .atelier-gather.gathering-motion-on .gathering-orbit{animation:gathering-orbit-drift 16s ease-in-out infinite}
+.site-shell .atelier-gather.gathering-motion-on .orbit-two{animation-delay:-8s;animation-direction:reverse}
+.site-shell .atelier-gather.gathering-motion-on .gathering-glow{animation:gathering-glow-drift 12s ease-in-out infinite}
+.site-shell .atelier-gather.gathering-motion-on .floating-particles>span{animation:mobile-gathering-float 8s var(--delay) ease-in-out infinite;will-change:transform,opacity}
+.site-shell .atelier-gather.gathering-motion-off .gathering-leaf,.site-shell .atelier-gather.gathering-motion-off .gathering-orbit,.site-shell .atelier-gather.gathering-motion-off .gathering-glow,.site-shell .atelier-gather.gathering-motion-off .floating-particles>span{animation-play-state:paused}
