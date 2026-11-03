@@ -19,7 +19,7 @@ export default function Home(){return <div className="atelier-home">
   <section className="atelier-hero" aria-labelledby="home-title">
     <picture><img src="/images/kitchen-editorial-hero.jpg" alt="AI-generated illustration of chicken biryani, butter chicken and garlic naan on a warm wooden table" width="1536" height="1024" fetchPriority="high"/></picture>
     <FloatingParticles/>
-    <div className="atelier-hero-content"><p className="atelier-eyebrow">VJ’S KITCHEN · SACRAMENTO</p><h1 id="home-title">A little spice.<br/>A lot of <em>soul.</em></h1><p>India’s familiar flavors.<br/>Sacramento’s shared table.</p><div className="atelier-actions"><Link className="atelier-button" to="/menu">Explore our menu</Link><a className="atelier-link light" href={orderingUrl} target="_blank" rel="noreferrer">Order online</a></div></div>
+    <div className="atelier-hero-content"><p className="atelier-eyebrow">VJ’S KITCHEN · SACRAMENTO</p><h1 id="home-title">A little spice.<br/>A lot of <em>soul.</em></h1><p>India’s familiar flavors.<br/> Sacramento’s shared table.</p><div className="atelier-actions"><Link className="atelier-button" to="/menu">Explore our menu</Link><a className="atelier-link light" href={orderingUrl} target="_blank" rel="noreferrer">Order online</a></div></div>
 
   </section>
   <section className="atelier-intro"><p className="atelier-eyebrow">ROOTED IN INDIA. AT HOME IN SACRAMENTO.</p><h2>Some meals fill a table.<br/><em>Others bring it together.</em></h2><p>A crisp dosa. A fragrant biryani. Your favorite curry with warm naan. From South Indian comforts to North Indian classics, explore the flavors that make every visit your own.</p><Link className="atelier-link" to="/about">The story of our kitchen</Link></section>
