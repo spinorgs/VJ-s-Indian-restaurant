@@ -32,3 +32,12 @@ html{scroll-padding-top:110px}body{min-width:320px}.site-shell main img{max-widt
 }
 @keyframes mobile-gathering-float{0%,100%{transform:translate3d(0,12px,0);opacity:.25}50%{transform:translate3d(18px,-28px,0);opacity:.65}}
 @media(prefers-reduced-motion:reduce){.site-shell .atelier-gather .gathering-drifters,.site-shell .atelier-gather .floating-particles{display:none}}
+
+/* Reduced motion keeps the decoration visible without animating it. */
+@media(prefers-reduced-motion:reduce){
+ .site-shell .atelier-gather .gathering-drifters{display:block}
+ .site-shell .atelier-gather .gathering-leaf{animation:none;transform:rotate(-12deg)}
+ .site-shell .atelier-gather .gathering-orbit,.site-shell .atelier-gather .gathering-glow{animation:none}
+ .site-shell .atelier-gather .floating-particles{display:block}
+ .site-shell .atelier-gather .floating-particles>span{animation:none;opacity:.4;transform:none;will-change:auto}
+}
